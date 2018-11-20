@@ -1,6 +1,5 @@
 ### Supported tags and respective `Dockerfile` links
 
--	[`14.04` (*Dockerfile*)](https://github.com/igeolise/docker-ubuntu/blob/master/Dockerfile1404)
 -	[`16.04` (*Dockerfile*)](https://github.com/igeolise/docker-ubuntu/blob/master/Dockerfile1604)
 -	[`18.04` (*Dockerfile*)](https://github.com/igeolise/docker-ubuntu/blob/master/Dockerfile1804)
 
